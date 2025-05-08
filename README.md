@@ -32,9 +32,7 @@ The project follows a standard end-to-end machine learning pipeline:
 |---------------------------|-----------------------------------------------------------|
 | **data/**                 | Cleaned dataset                                            |
 | **notebooks/**            | EDA and modeling Jupyter notebooks                         |
-| **models/**               | Saved XGBoost model (optional)                             |
-| **src/**                  | Python scripts for preprocessing, training                 |
+| **models/**               | XGBoost model                                              |
 | **README.md**             | Project overview and instructions                          |
-| **requirements.txt**      | List of dependencies                                        |
 
 ---
